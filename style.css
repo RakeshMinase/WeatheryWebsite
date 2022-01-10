@@ -1,0 +1,31 @@
+html {
+    overflow-y: scroll;
+  }
+
+body{
+    background: url("Images/bgPic.jpg") no-repeat center center fixed;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.card{
+    background: #000000d0;
+    border-radius: 10px;
+}
+
+#input{
+    background-color: #00000050;
+    border: none;
+    border-radius: 10px;
+    width: 70%;
+    color: antiquewhite;
+}
+
+#button{
+    background-color: rgb(253, 253, 253);
+    border-radius: 50%;
+    border: none;
+    width: 2rem;
+}
+
